@@ -16,7 +16,7 @@
 	
 => ¿las etiquetas de HTML son semánticamente correctas? si / no, y porque
 
-	Si ya que se trata de “bloques” hice uso de la etiqueta <div> con ajustes en los estilos para que se vieran las cards lo mas limpio posible
+	No ya que mayormente hice uso de la etiqueta <div> para poder manipular mejor la forma en la que el contenido se encuentra organizado.
 	
 => ¿hay elementos HTML que pueden ser removidos o agregados para mejorar el patrón?
 
